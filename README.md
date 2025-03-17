@@ -47,7 +47,7 @@ SELECT * FROM Clients WHERE Name = 'Maria Silva';
 -- Updating data in the table
 UPDATE Clients  
 SET Age = 32  
-WHERE ID = 1;  -- Replace 1 with the correct ID
+WHERE ID = 1;  
 
 -- Viewing updated data
 SELECT * FROM Clients;
